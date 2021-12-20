@@ -1,0 +1,25 @@
+{
+  "name": "systematic-html",
+  "version": "1.0.0",
+  "description": "simple html template",
+  "main": "index.js",
+  "scripts": {
+    "test": "compile:sass"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/38hossainafzal/systematic-html.git"
+  },
+  "keywords": [
+    "systematic-html"
+  ],
+  "author": "Md. Afzal Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/38hossainafzal/systematic-html/issues"
+  },
+  "homepage": "https://github.com/38hossainafzal/systematic-html#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
